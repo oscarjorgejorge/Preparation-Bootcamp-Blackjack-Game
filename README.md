@@ -5,4 +5,4 @@ Front-end.
 
 Technologies: JQuery, Javascript, CSS, HTML
 
-Try it out: https://oscarjorgejorge.github.io/game-blackjack/
+Try it out: https://oscarjorgejorge.github.io/Preparation-Bootcamp-Blackjack-Game/
